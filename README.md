@@ -44,7 +44,7 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 - Crafts process and support documentation in the support knowledge base
 
 ### Identity & Access Management Engineer
-**Kemper Insurance - May 2021 - November 2021**
+**Kemper - May 2021 - November 2021**
 - Managed and maintained ForgeRock, including integrations with business applications
 - Implemented ForgeRock as a replacement to CA Identity Manager, including connectivity and authentication between business applications and ForgeRock and writing various scripts to add, change, and enhance functionality to meet business requirements
 - Administered and maintained multiple LDAP directories including the migration of users and groups from CA LDAP to ForgeRock LDAP
