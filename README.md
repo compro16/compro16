@@ -21,7 +21,7 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 - Microsoft Entra ID (Azure AD)
 - ForgeRock
 - PingID
-- SAP Identity Manager
+- SAP Identity Management
 - One Identity Manager
 
 **Other Technologies**
