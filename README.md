@@ -20,12 +20,13 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 - Okta Customer Identity Cloud (Auth0)
 - Microsoft Entra ID (Azure AD)
 - ForgeRock
-- Ping ID
+- PingID
 - SAP Identity Manager
 - One Identity Manager
 
 **Other Technologies**
 - Active Directory
+- LDAP
 - SQL
 - SCIM
 - REST APIs
