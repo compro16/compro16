@@ -25,7 +25,7 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 - One Identity Manager
 
 **Other Technologies**
-- Active Director
+- Active Directory
 - SQL
 - SCIM
 - REST APIs
