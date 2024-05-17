@@ -30,6 +30,8 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 - SQL
 - SCIM
 - REST APIs
+- OAuth
+- OpenID Connect (OIDC)
 - Microsoft Configuration Manager
 
 ## Professional Experience
