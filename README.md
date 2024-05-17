@@ -36,7 +36,7 @@ I am a Developer Support Engineer with 16 years of experience spanning customer 
 ### Developer Support Engineer
 **Okta - November 2021 - Present**
 - Provides troubleshooting and advice for application development with Okta with existing and prospective customers, ISVs, and developers
-- Takes ownership of issues and identified root causes and drove issue resolution.
+- Takes ownership of issues and identifies root causes and drives issue resolution.
 - Writes code to build user scenarios using Okta’s API and SDKs to reproduce issues
 - Assists and educates developers integrating with Okta using OAuth, OpenID Connect, SCIM, and Okta’s public APIs
 - Collects information and documents bugs with Engineering for API and product issues
