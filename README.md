@@ -1,5 +1,5 @@
 # About Louie
-I am a Developer Support Engineer with 16 years of experience spanning customer service, desktop engineering, identity and access management and governance, and programming. I possess knowledge of multiple frontend, backend, and scripting languages, and am an Okta Certified Professional and Microsoft Certified Professional.
+I am a Developer Support Engineer with 16 years of experience spanning customer service, desktop engineering, identity and access management and governance, and programming. I possess knowledge of multiple frontend, backend, and scripting languages, and am an Okta Certified Professional and Microsoft Certified Professional. I have a passion for writing code and finding creative solutions to problems.
 
 ## Skills
 **Programming/Scripting Languages and Frameworks**
